@@ -10,7 +10,4 @@
 - 👀 I’m interested in Android Development, Web Development, Game Development (Unity 3D)
 - 🌱 I’m currently learning `C++`, `ML`
 - 🧠 I’ve already learned `Java`, `Python`, `Kotlin`, `C#`
-- 📫 How to reach me:
-{
-  [Telegram](https://t.me/bialger)
-}
+- 📫 How to reach me: [Telegram](https://t.me/bialger)
