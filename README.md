@@ -8,6 +8,6 @@
 - 🔭 I’m currently working on Android app for music creation
 - 👯 I’m looking to collaborate on some project in ML sphere
 - 👀 I’m interested in Android Development, Web Development, Game Development (Unity 3D)
-- 🌱 I’m currently learning `C++`, `ML`
+- 🌱 I’m currently learning `C++`, `ML`, `CMake`
 - 🧠 I’ve already learned `Java`, `Python`, `Kotlin`, `C#`
 - 📫 How to reach me: [Telegram](https://t.me/bialger)
