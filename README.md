@@ -14,8 +14,5 @@
 <br>
 <div id="stats" align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=bialger&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bialger&hide_border=true&show_icons=true&theme=dark"></a>
-</div>
-<br>
-<div id="languages" align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&hide_border=true&theme=dark"></a>
 </div>
