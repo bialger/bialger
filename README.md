@@ -13,5 +13,5 @@
 - 📫 How to reach me: [Telegram](https://t.me/bialger)
 
 <div id="languages" align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&layout=compact&hide_border=true"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&hide_border=true"></a>
 </div>
