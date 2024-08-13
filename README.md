@@ -13,6 +13,6 @@
 - 📫 How to reach me: [Telegram](https://t.me/bialger)
 <br>
 <div id="stats" align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=bialger&show_icons=true&theme=dark"><img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=bialger&hide_border=true&show_icons=true&theme=dark"></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&theme=dark"><img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&layout=compact&hide_border=true&theme=dark"></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=bialger&show_icons=true&theme=dark"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bialger&hide_border=true&show_icons=true&theme=dark"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&theme=dark"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bialger&layout=compact&hide_border=true&theme=dark"></a>
 </div>
