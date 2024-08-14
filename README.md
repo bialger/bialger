@@ -5,11 +5,11 @@
 -->
 
 - 👋 Hello, I’m `@bialger` or Alex
-- 🔭 I’m currently working on Android app for music creation
-- 👯 I’m looking to collaborate on some project in `C++`, `Android` or `ML` sphere
+- 🔭 I’m currently working on [Android app for music creation](https://github.com/bialger/EasyMusic) and [OpenFOAM fork](https://github.com/EclipseRE/OpenFOAM-EclipseRE)
+- 👯 I’m looking to collaborate on some project in `C++`, `Android`, `CFD` or `ML` sphere
 - 👀 I’m interested in Android Development, Web Development, Game Development (Unity 3D), C++ Development
-- 🌱 I’m currently learning `C++`, `ML`, `DevOps`
-- 🧠 I’ve already learned `Java`, `Python`, `Kotlin`, `C#`
+- 🌱 I’m currently learning `ML`, `DevOps`
+- 🧠 I’ve already learned `Java`, `Python`, `Kotlin`, `C++`
 - 📫 How to reach me: [Telegram](https://t.me/bialger)
 <br>
 <div id="stats" align="center">
