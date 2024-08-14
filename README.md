@@ -4,7 +4,7 @@
 **bialger/bialger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👋 Hello, I’m `@bialger`
+- 👋 Hello, I’m `@bialger` or Alex
 - 🔭 I’m currently working on Android app for music creation
 - 👯 I’m looking to collaborate on some project in `C++`, `Android` or `ML` sphere
 - 👀 I’m interested in Android Development, Web Development, Game Development (Unity 3D), C++ Development
